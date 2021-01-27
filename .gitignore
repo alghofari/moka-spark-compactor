@@ -1,0 +1,9 @@
+/notebook/
+/project/project/
+/project/target/
+/target/
+/src/test/resources/result/
+readme.txt
+run.json
+.DS_Store
+.idea/
